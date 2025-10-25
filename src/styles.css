@@ -1,0 +1,21 @@
+#ribbon {
+    table-layout: fixed;
+    width: 100%;
+    background-color: #007aff;
+    padding: 7px;
+}
+
+#siteOwner {
+    text-align: left;
+    font-family: "Lato", sans-serif;
+    font-size: 1.75em;
+    color: white;
+    font-weight: bold;
+    width: 25%;
+}
+
+#ribbon a {
+    color: wheat;
+    font-size: 1.5em;
+    text-align: center;
+}
